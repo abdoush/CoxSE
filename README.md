@@ -17,7 +17,7 @@ pip install -r requirements.txt
 2. Run **Example.ipybn** notebook to train CoxSE and CoxSENAM on a sample dataset and visualize explanations
 
 3. This repository additionally provides implementations of the following models:
-   1. [CoxNAM](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007200): Cox-based Nural Additive Model.
+   1. [CoxNAM](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007200): Cox-based Neural Additive Model.
    2. [DeepSurv](https://link.springer.com/article/10.1186/s12874-018-0482-1): Cox-based black-box deep survival analysis model.
    3. [CPH](https://www.jstor.org/stable/2985181): Cox Proportional Hazards model trained using gradient descent.
 
