@@ -14,7 +14,7 @@ A. Alabdallah, O. Hamed, M. Ohlsson, T. Rögnvaldsson, S. Pashami. **CoxSE: Expl
 ```
 pip install -r requirements.txt
 ```
-2. Run **Example.ipybn** notebook to train CoxSE and CoxSENAM on a sample dataset and visualize explanations
+2. Run **Example.ipynb** notebook to train CoxSE and CoxSENAM on a sample dataset and visualize explanations
 
 3. This repository additionally provides implementations of the following models:
    1. [CoxNAM](https://www.sciencedirect.com/science/article/abs/pii/S0957417423007200): Cox-based Neural Additive Model.
